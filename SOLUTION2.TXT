@@ -22,5 +22,7 @@ print("area of the traingle is=",(1/2)*b*h)
 
 4)print the calendar on the terminal. if you give the year . allow the user to input the year.then show the calender of that year.
 ans- 
+import calender
 year=input("enter the year-")
+print(calendar.calendar(year))
 
