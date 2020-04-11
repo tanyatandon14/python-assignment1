@@ -1,0 +1,7 @@
+1) what will be the output of 3+4**6-9*10/2
+ans- exponent>multiplication=division>addition=subtraction 
+=3+4**6-9*5
+=3+4096-45
+=4099-45=4054
+so by this  the answer will be 4054
+
