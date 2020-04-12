@@ -2,7 +2,7 @@ python class 1
 1)what is jpython and cpython?
 ans.-cypthon is both the compiler as well as the interpreter. it will convert the written python code into the byte code before interpreting it.
 it is the default and most widely used implementation of the language.
-jpython
+jpython it is the implementation of python working on the java platform. 
 
 2) basic difference between pyhton2 and pyhton3.
 ans.- in python2 it takes the user input and default storing os string is in the ASCII code.whereas in python3 we take only input and default storing of string is in unicode.
