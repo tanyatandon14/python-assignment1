@@ -1,5 +1,6 @@
-1) what will be the output of 3+4**6-9*10/2
-ans- exponent>multiplication=division>addition=subtraction 
+1) what will be the output of 3+4**6-9*10/2?
+ans-  we will solve this question by following the precedence of the operators.i.e.
+exponent>multiplication=division>addition=subtraction 
 =3+4**6-9*5
 =3+4096-45
 =4099-45=4054
