@@ -12,5 +12,5 @@ ans-
 Unicode and ASCII both are standards for encoding texts
 ASCII CODE-ASCII is a character-encoding scheme and it was the first character encoding standard.ASCII uses 7 bits to represent a character. It has 128 code points, 0 through 127.  It is a code for representing English characters as numbers, with each letter assigned a number from 0 to 127.
  
-UNICODE-Unicode is a universal international standard character encoding that is capable of representing most of the world's written languages. It assigns each character a unique number, or code point. 
+UNICODE-Unicode is a universal international standard character encoding that is capable of representing most of the world's written languages. It assigns each character a unique number, or code point.
  
